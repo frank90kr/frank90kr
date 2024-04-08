@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 <h3 align="center">A passionate Full-Stack Developer's student</h3>
 
-- 🌱 Front-end & Back-end **in Epicode**
+🌱 Front-end & Back-end **in Epicode**
 
 
 <p align="left">
