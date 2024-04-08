@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer's student</h3>
 
 <h2>🚀 About Me</h2>
+<br>
 <p>In my code I always try to pay particular attention to the aesthetic but also practical aspect of web platforms</p>
 
 🌱 Front-end & Back-end **in Epicode**
