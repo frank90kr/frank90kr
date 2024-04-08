@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
 <h3 align="center">A passionate Full-Stack Developer's student</h3>
 
+<h2>About:</h2>
+<p>In my code I always try to pay particular attention to the aesthetic but also practical aspect of web platforms</p>
+
 🌱 Front-end & Back-end **in Epicode**
 
 
